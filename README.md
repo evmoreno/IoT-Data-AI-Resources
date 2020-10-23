@@ -57,9 +57,12 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 # Data Workshops
 - Migrate to Azure SQL - https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure
 - Migrating Oracle to Azure SQL, PostgreSQL -  https://github.com/Microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL
-- Check out #Project15 - https://github.com/microsoft/project15
 
-#intelligentedge #edgeAI #IoTedge #AzureStack
+
+## Check out #Project15 - https://github.com/microsoft/project15 #HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
+
+
+
 
 
 
