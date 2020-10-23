@@ -1,7 +1,6 @@
 # EdgeComputeOpenHack
 
-Getting started with Azure Stack Edge on an Azure VM.
-
+Deploy Azure GPU enabled VM
 Create NC12v2 VM in Azure on Ubuntu 18.04 
 -	Install drivers - https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/
 -	Install nvidia docker and ensure nvidai-smi is working inside docker for you - https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/
