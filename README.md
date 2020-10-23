@@ -1,4 +1,4 @@
-# Explore Edge workloads
+# Explore IoT Edge workloads
 
 Deploy Azure GPU enabled VM
 Create NC12v2 VM in Azure on Ubuntu 18.04 
@@ -20,7 +20,7 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 -	Use Grafana to send IoT Edge Container Debug to Azure Monitor - https://github.com/veyalla/edge-telegraf-monitor
 
 
-# Concepts
+# IoT Edge Concepts
 - IoT Hub - https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub
 - IoT Edge Runtime - https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime
 - IoT Edge Modules - https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules
