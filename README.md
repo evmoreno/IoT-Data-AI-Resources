@@ -37,6 +37,22 @@ Learn Content
 - Build intelligent edge with IoT Edge - https://docs.microsoft.com/en-gb/learn/paths/build-intelligent-edge-with-azure-iot-edge/
 - Develop IoT Solutions with IoT Central - https://docs.microsoft.com/en-gb/learn/paths/develop-iot-solutions-with-azure-iot-central/
 
+IoT Workshops
+- Internet of Things - https://github.com/Microsoft/MCW-Internet-of-Things
+- IoT Smart City - https://github.com/Microsoft/MCW-IoT-and-the-Smart-City
+- MlOps - https://github.com/microsoft/MCW-ML-Ops
+- Predictive Maintenance for Field Devices - https://github.com/microsoft/MCW-Predictive-Maintenance-for-remote-field-devices
+- Securing IoT End to End - https://github.com/microsoft/MCW-Securing-the-IoT-end-to-end
+
+Data & AI Workshops
+- Machine Learning - https://github.com/microsoft/MCW-Machine-Learning
+- Analytics & AI - https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI
+- Big Data & Visualisation - https://github.com/Microsoft/MCW-Big-Data-and-Visualization
+- Cognitive Services & Deep Learning - https://github.com/Microsoft/MCW-Cognitive-Services-and-Deep-Learning
+- CosmosDB Real-time analytics - https://github.com/Microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics
+- Innovate with Data & AI - https://github.com/microsoft/MCW-Innovate-and-modernize-apps-with-Data-and-AI
+- Intelligent Analytics - https://github.com/Microsoft/MCW-Intelligent-Analytics
+
 Check out #Project15 - https://github.com/microsoft/project15
 
 #intelligentedge #edgeAI #IoTedge #AzureStack
