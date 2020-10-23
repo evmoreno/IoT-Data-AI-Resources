@@ -37,6 +37,13 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 - Predictive Maintenance for Field Devices - https://github.com/microsoft/MCW-Predictive-Maintenance-for-remote-field-devices
 - Securing IoT End to End - https://github.com/microsoft/MCW-Securing-the-IoT-end-to-end
 
+# Microsoft Learn Edge Content
+- AI Edge Engineer - https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/
+- Introduction to IoT - https://docs.microsoft.com/en-gb/learn/paths/introduction-to-azure-iot/
+- Securely connect IoT Devices- https://docs.microsoft.com/en-gb/learn/paths/securely-connect-iot-devices/
+- Build intelligent edge with IoT Edge - https://docs.microsoft.com/en-gb/learn/paths/build-intelligent-edge-with-azure-iot-edge/
+- Develop IoT Solutions with IoT Central - https://docs.microsoft.com/en-gb/learn/paths/develop-iot-solutions-with-azure-iot-central/
+
 # Analytics & AI Workshops
 - Machine Learning - https://github.com/microsoft/MCW-Machine-Learning
 - Synapse & AI - https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI
@@ -50,13 +57,6 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 # Data Workshops
 - Migrate to Azure SQL - https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure
 - Migrating Oracle to Azure SQL, PostgreSQL -  https://github.com/Microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL
-
-# Microsoft Learn Content
-- AI Edge Engineer - https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/
-- Introduction to IoT - https://docs.microsoft.com/en-gb/learn/paths/introduction-to-azure-iot/
-- Securely connect IoT Devices- https://docs.microsoft.com/en-gb/learn/paths/securely-connect-iot-devices/
-- Build intelligent edge with IoT Edge - https://docs.microsoft.com/en-gb/learn/paths/build-intelligent-edge-with-azure-iot-edge/
-- Develop IoT Solutions with IoT Central - https://docs.microsoft.com/en-gb/learn/paths/develop-iot-solutions-with-azure-iot-central/
 
 
 
