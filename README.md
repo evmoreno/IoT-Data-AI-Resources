@@ -1,4 +1,4 @@
-# EdgeComputeOpenHack
+# Edge Workloads
 
 Deploy Azure GPU enabled VM
 Create NC12v2 VM in Azure on Ubuntu 18.04 
