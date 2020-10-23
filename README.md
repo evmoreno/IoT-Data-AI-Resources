@@ -31,7 +31,16 @@ Concepts
     Storage - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-access-host-storage-from-module
     Network - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options#map-host-port-to-module-port
 
+Learn Content
+- AI Edge Engineer - https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/
+- Introduction to IoT - https://docs.microsoft.com/en-gb/learn/paths/introduction-to-azure-iot/
+- Securely connect IoT Devices- https://docs.microsoft.com/en-gb/learn/paths/securely-connect-iot-devices/
+- Build intelligent edge with IoT Edge - https://docs.microsoft.com/en-gb/learn/paths/build-intelligent-edge-with-azure-iot-edge/
+- Develop IoT Solutions with IoT Central - https://docs.microsoft.com/en-gb/learn/paths/develop-iot-solutions-with-azure-iot-central/
 
+Check out #Project15 - https://github.com/microsoft/project15
+
+#intelligentedge #edgeAI #IoTedge #AzureStack
 
 
 
