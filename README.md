@@ -44,16 +44,20 @@ IoT Workshops
 - Predictive Maintenance for Field Devices - https://github.com/microsoft/MCW-Predictive-Maintenance-for-remote-field-devices
 - Securing IoT End to End - https://github.com/microsoft/MCW-Securing-the-IoT-end-to-end
 
-Data & AI Workshops
+Analytics & AI Workshops
 - Machine Learning - https://github.com/microsoft/MCW-Machine-Learning
-- Analytics & AI - https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI
+- Synapse & AI - https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI
 - Big Data & Visualisation - https://github.com/Microsoft/MCW-Big-Data-and-Visualization
 - Cognitive Services & Deep Learning - https://github.com/Microsoft/MCW-Cognitive-Services-and-Deep-Learning
 - CosmosDB Real-time analytics - https://github.com/Microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics
 - Innovate with Data & AI - https://github.com/microsoft/MCW-Innovate-and-modernize-apps-with-Data-and-AI
 - Intelligent Analytics - https://github.com/Microsoft/MCW-Intelligent-Analytics
+- Analytics and SQL 2019 - https://github.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019
 
-Check out #Project15 - https://github.com/microsoft/project15
+Data Workshops
+- Migrate to Azure SQL - https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure
+- Migrating Oracle to Azure SQL, PostgreSQL -  https://github.com/Microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL
+- Check out #Project15 - https://github.com/microsoft/project15
 
 #intelligentedge #edgeAI #IoTedge #AzureStack
 
