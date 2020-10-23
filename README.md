@@ -1,11 +1,14 @@
 # EdgeComputeOpenHack
+
+Getting started with Azure Stack Edge on an Azure VM.
+
 Create NC12v2 VM in Azure on Ubuntu 18.04 
 -	Install drivers - https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/
 -	Install nvidia docker and ensure nvidai-smi is working inside docker for you - https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/
 -	Install iot edge on your VM - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-linux
 OR use the Azure deploy button ere this does all above from UX -  https://github.com/MSKeith/iotedge-vm-deploy
 
-Lots of Tutorials creating and deploying solutions that you can leverage includes:
+Tutorials creating and deploying solutions that you can leverage includes:
 -	Azure Stack Edge docs - https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-j-series-configure-gpu-modules
 -	Azure Stack GitHUB has some nice use cases includes FactoryAI
 -	Live Video Analytics  -https://docs.microsoft.com/en-gb/azure/media-services/live-video-analytics-edge/use-intel-openvino-tutorial
