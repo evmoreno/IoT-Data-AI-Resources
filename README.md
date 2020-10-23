@@ -1,4 +1,4 @@
-# Edge Workloads
+# Explore Edge workloads
 
 Deploy Azure GPU enabled VM
 Create NC12v2 VM in Azure on Ubuntu 18.04 
@@ -20,7 +20,7 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 -	Use Grafana to send IoT Edge Container Debug to Azure Monitor - https://github.com/veyalla/edge-telegraf-monitor
 
 
-Concepts
+# Concepts
 - IoT Hub - https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub
 - IoT Edge Runtime - https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime
 - IoT Edge Modules - https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules
@@ -30,21 +30,21 @@ Concepts
     Storage - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-access-host-storage-from-module
     Network - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options#map-host-port-to-module-port
 
-Learn Content
+# Learn Content
 - AI Edge Engineer - https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/
 - Introduction to IoT - https://docs.microsoft.com/en-gb/learn/paths/introduction-to-azure-iot/
 - Securely connect IoT Devices- https://docs.microsoft.com/en-gb/learn/paths/securely-connect-iot-devices/
 - Build intelligent edge with IoT Edge - https://docs.microsoft.com/en-gb/learn/paths/build-intelligent-edge-with-azure-iot-edge/
 - Develop IoT Solutions with IoT Central - https://docs.microsoft.com/en-gb/learn/paths/develop-iot-solutions-with-azure-iot-central/
 
-IoT Workshops
+# IoT Workshops
 - Internet of Things - https://github.com/Microsoft/MCW-Internet-of-Things
 - IoT Smart City - https://github.com/Microsoft/MCW-IoT-and-the-Smart-City
 - MlOps - https://github.com/microsoft/MCW-ML-Ops
 - Predictive Maintenance for Field Devices - https://github.com/microsoft/MCW-Predictive-Maintenance-for-remote-field-devices
 - Securing IoT End to End - https://github.com/microsoft/MCW-Securing-the-IoT-end-to-end
 
-Analytics & AI Workshops
+# Analytics & AI Workshops
 - Machine Learning - https://github.com/microsoft/MCW-Machine-Learning
 - Synapse & AI - https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI
 - Big Data & Visualisation - https://github.com/Microsoft/MCW-Big-Data-and-Visualization
@@ -54,7 +54,7 @@ Analytics & AI Workshops
 - Intelligent Analytics - https://github.com/Microsoft/MCW-Intelligent-Analytics
 - Analytics and SQL 2019 - https://github.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019
 
-Data Workshops
+# Data Workshops
 - Migrate to Azure SQL - https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure
 - Migrating Oracle to Azure SQL, PostgreSQL -  https://github.com/Microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL
 - Check out #Project15 - https://github.com/microsoft/project15
