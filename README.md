@@ -31,6 +31,7 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
     Network - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options#map-host-port-to-module-port
 
 # IoT Workshops
+- Internet of Things learning path - https://github.com/microsoft/Internet-of-Things-Event-Learning-Path
 - Internet of Things - https://github.com/Microsoft/MCW-Internet-of-Things
 - IoT Smart City - https://github.com/Microsoft/MCW-IoT-and-the-Smart-City
 - MlOps - https://github.com/microsoft/MCW-ML-Ops
@@ -63,7 +64,7 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 Intel OpenVino - https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/pretrained-models.html
 nVidia -https://developer.nvidia.com/blog/training-custom-pretrained-models-using-tlt/
 
-## Check out #Project15 - https://github.com/microsoft/project15 #HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
+# Check out #Project15 - https://github.com/microsoft/project15 #HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
 
 
 
