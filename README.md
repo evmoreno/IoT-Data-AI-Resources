@@ -1,4 +1,4 @@
-# Explore IoT Edge workloads
+# Edge Art of the possible
 
 Deploy Azure GPU enabled VM
 Create NC12v2 VM in Azure on Ubuntu 18.04 
