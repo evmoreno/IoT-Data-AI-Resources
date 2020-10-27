@@ -60,11 +60,14 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 - Migrating Oracle to Azure SQL, PostgreSQL -  https://github.com/Microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL
 
 
-# Pre-trained Models
+# Use Pre-trained Models for Edge AI
 Intel OpenVino - https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/pretrained-models.html
 nVidia -https://developer.nvidia.com/blog/training-custom-pretrained-models-using-tlt/
 
-# Check out #Project15 - https://github.com/microsoft/project15 #HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
+# Register for OpenHacks
+Developer focused team based events - https://openhack.microsoft.com/
+
+# Check out #Project15 - https://github.com/microsoft/project15  and HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
 
 
 
