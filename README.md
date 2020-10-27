@@ -67,7 +67,10 @@ nVidia -https://developer.nvidia.com/blog/training-custom-pretrained-models-usin
 # Register for OpenHacks
 Developer focused team based events - https://openhack.microsoft.com/
 
-# Check out #Project15 - https://github.com/microsoft/project15  and HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
+# Check out these projects
+Project15 - https://github.com/microsoft/project15
+HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
+Microsoft researh -  https://www.microsoft.com/en-us/research/
 
 
 
