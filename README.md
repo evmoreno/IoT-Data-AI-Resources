@@ -25,7 +25,7 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 - IoT Edge Runtime - https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime
 - IoT Edge Modules - https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules
 - IoT Edge Module communication - https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#module-communication
-- IoT Edge on Kubernetes - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-kubernetes#
+- IoT Edge on Kubernetes - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-kubernetes# & Tutorial - https://microsoft.github.io/iotedge-k8s-doc/
 - Container Host interactions - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options
     Storage - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-access-host-storage-from-module
     Network - https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options#map-host-port-to-module-port
