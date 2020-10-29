@@ -10,10 +10,11 @@ OR use the Azure deploy button ere this does all above from UX -  https://github
 Tutorials creating and deploying solutions to Edge:
 -	Deploy FactoryAI Vision - https://github.com/Azure-Samples/azure-intelligent-edge-patterns/tree/master/factory-ai-vision
 -   Azure Stack Edge docs - https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-j-series-configure-gpu-modules
--	Intelligent Edge Git Hub repo samples includes FactoryAI - https://github.com/Azure-Samples/azure-intelligent-edge-patterns
+-	Intelligent Edge Git Hub repo samples - https://github.com/Azure-Samples/azure-intelligent-edge-patterns
 -	Live Video Analytics  -https://docs.microsoft.com/en-gb/azure/media-services/live-video-analytics-edge/use-intel-openvino-tutorial
 -	Live Video Analytics GitHub repo has sammples and some utils includes RTSP simulator  - https://github.com/Azure/live-video-analytics
 -	You can also train a CustomAI vision model, export to container and deploy to IOT Edge here is an example- https://azure.github.io/Vision-AI-DevKit-Pages/docs/Tutorial-HOL_Using_the_VisionSample/
+
 
 Setup CICD for IoT Edge to deploy your container solution and even setup monitoring IoT Edge modules:
 -	IoT Hub and IoT Edge Module Monitoring - Expose and ingest IoT Edge Metrics into Azure Monitor Log Analytics workspace - https://github.com/veyalla/ehm  
@@ -60,6 +61,9 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 - Migrate to Azure SQL - https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure
 - Migrating Oracle to Azure SQL, PostgreSQL -  https://github.com/Microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL
 
+# Devices
+- nVidia Jetson Nano DevKit -  https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
+- Deploying an AI/IoT Model https://github.com/NVIDIA-AI-IOT/trt_pose
 
 # Use Pre-trained Models for Edge AI
 Intel OpenVino - https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/pretrained-models.html
