@@ -8,8 +8,9 @@ Create NC12v2 VM in Azure on Ubuntu 18.04
 OR use the Azure deploy button ere this does all above from UX -  https://github.com/MSKeith/iotedge-vm-deploy
 
 Tutorials creating and deploying solutions to Edge:
--	Azure Stack Edge docs - https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-j-series-configure-gpu-modules
--	Intelligent Edge GitHub repo samples includes FactoryAI - https://github.com/Azure-Samples/azure-intelligent-edge-patterns
+-	Deploy FactoryAI Vision - https://github.com/Azure-Samples/azure-intelligent-edge-patterns/tree/master/factory-ai-vision
+-   Azure Stack Edge docs - https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-j-series-configure-gpu-modules
+-	Intelligent Edge Git Hub repo samples includes FactoryAI - https://github.com/Azure-Samples/azure-intelligent-edge-patterns
 -	Live Video Analytics  -https://docs.microsoft.com/en-gb/azure/media-services/live-video-analytics-edge/use-intel-openvino-tutorial
 -	Live Video Analytics GitHub repo has sammples and some utils includes RTSP simulator  - https://github.com/Azure/live-video-analytics
 -	You can also train a CustomAI vision model, export to container and deploy to IOT Edge here is an example- https://azure.github.io/Vision-AI-DevKit-Pages/docs/Tutorial-HOL_Using_the_VisionSample/
