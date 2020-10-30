@@ -12,7 +12,7 @@ Tutorials creating and deploying solutions to Edge:
 -   Azure Stack Edge docs - https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-j-series-configure-gpu-modules
 -	Intelligent Edge Git Hub repo samples - https://github.com/Azure-Samples/azure-intelligent-edge-patterns
 -	Live Video Analytics  -https://docs.microsoft.com/en-gb/azure/media-services/live-video-analytics-edge/use-intel-openvino-tutorial
--	Live Video Analytics GitHub repo has sammples and some utils includes RTSP simulator  - https://github.com/Azure/live-video-analytics
+-	Live Video Analytics GitHub repo has samples and some utils includes RTSP simulator  - https://github.com/Azure/live-video-analytics
 -	You can also train a CustomAI vision model, export to container and deploy to IOT Edge here is an example- https://azure.github.io/Vision-AI-DevKit-Pages/docs/Tutorial-HOL_Using_the_VisionSample/
 
 
