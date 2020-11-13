@@ -60,6 +60,7 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 # Data Workshops
 - Migrate to Azure SQL - https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure
 - Migrating Oracle to Azure SQL, PostgreSQL -  https://github.com/Microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL
+- SQL Engineering Team workshops - https://microsoft.github.io/sqlworkshops/
 
 # Devices
 - nVidia Jetson Nano DevKit -  https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
