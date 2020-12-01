@@ -71,6 +71,9 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 Intel OpenVino - https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/pretrained-models.html
 nVidia -https://developer.nvidia.com/blog/training-custom-pretrained-models-using-tlt/
 
+# Technical Whitepapers
+-Oracle to PostgreSQL migration guide - https://github.com/microsoft/OrcasNinjaTeam/blob/master/Oracle%20to%20PostgreSQL%20Migration%20Guide/Oracle%20to%20Azure%20Database%20for%20PostgreSQL%20Migration%20Guide.pdf
+
 # Register for OpenHacks
 Developer focused team based events - https://openhack.microsoft.com/
 
