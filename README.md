@@ -72,15 +72,15 @@ Intel OpenVino - https://software.intel.com/content/www/us/en/develop/tools/open
 nVidia -https://developer.nvidia.com/blog/training-custom-pretrained-models-using-tlt/
 
 # Technical Whitepapers
--Oracle to PostgreSQL migration guide - https://github.com/microsoft/OrcasNinjaTeam/blob/master/Oracle%20to%20PostgreSQL%20Migration%20Guide/Oracle%20to%20Azure%20Database%20for%20PostgreSQL%20Migration%20Guide.pdf
+- Oracle to PostgreSQL migration guide - https://github.com/microsoft/OrcasNinjaTeam/blob/master/Oracle%20to%20PostgreSQL%20Migration%20Guide/Oracle%20to%20Azure%20Database%20for%20PostgreSQL%20Migration%20Guide.pdf
 
 # Register for OpenHacks
-Developer focused team based events - https://openhack.microsoft.com/
+- Developer focused team based events - https://openhack.microsoft.com/
 
 # Check out these projects
-Project15 - https://github.com/microsoft/project15
-HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
-Microsoft researh -  https://www.microsoft.com/en-us/research/
+- Project15 - https://github.com/microsoft/project15
+- HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
+- Microsoft researh -  https://www.microsoft.com/en-us/research/
 
 
 
