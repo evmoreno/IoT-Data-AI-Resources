@@ -66,6 +66,9 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 
 # DataOps
 - Modern Data warehouse DataOps -https://github.com/Azure-Samples/modern-data-warehouse-dataops
+
+# Demos
+- IoT Solution Demos -https://github.com/Azure-Samples/IoTDemos
 # Devices
 - nVidia Jetson Nano DevKit -  https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 - Deploying an AI/IoT Model https://github.com/NVIDIA-AI-IOT/trt_pose
