@@ -64,6 +64,8 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 - SQL Engineering Team workshops - https://microsoft.github.io/sqlworkshops/
 - Migrating Oracle to PostgreSQL - https://github.com/Hrashid789/ora2pgWorkshop
 
+# DataOps
+- Modern Data warehouse DataOps -https://github.com/Azure-Samples/modern-data-warehouse-dataops
 # Devices
 - nVidia Jetson Nano DevKit -  https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 - Deploying an AI/IoT Model https://github.com/NVIDIA-AI-IOT/trt_pose
