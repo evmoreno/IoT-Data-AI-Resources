@@ -47,6 +47,7 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 - Build intelligent edge with IoT Edge - https://docs.microsoft.com/en-gb/learn/paths/build-intelligent-edge-with-azure-iot-edge/
 - Develop IoT Solutions with IoT Central - https://docs.microsoft.com/en-gb/learn/paths/develop-iot-solutions-with-azure-iot-central/
 - Synapse Analytics -https://docs.microsoft.com/en-us/learn/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/?_lrsc=1212a841-a9d8-45f4-9e7c-3db61ef82a85
+- Azure Digital Twins - https://docs.microsoft.com/en-us/learn/paths/develop-azure-digital-twins/
 
 # Analytics & AI Workshops
 - Machine Learning - https://github.com/microsoft/MCW-Machine-Learning
