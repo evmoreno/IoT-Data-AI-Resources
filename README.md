@@ -88,6 +88,7 @@ nVidia -https://developer.nvidia.com/blog/training-custom-pretrained-models-usin
 - Project15 - https://github.com/microsoft/project15
 - HealthyCountryAi - https://github.com/microsoft/HealthyCountryAI
 - Microsoft researh -  https://www.microsoft.com/en-us/research/
+- IoT Central - https://github.com/Azure/iot-central
 
 
 
