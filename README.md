@@ -39,6 +39,7 @@ Setup CICD for IoT Edge to deploy your container solution and even setup monitor
 - MlOps - https://github.com/microsoft/MCW-ML-Ops
 - Predictive Maintenance for Field Devices - https://github.com/microsoft/MCW-Predictive-Maintenance-for-remote-field-devices
 - Securing IoT End to End - https://github.com/microsoft/MCW-Securing-the-IoT-end-to-end
+- JulyOT Training - https://julyot.dev/
 
 # Microsoft Learn Edge Content
 - AI Edge Engineer - https://docs.microsoft.com/en-us/learn/paths/ai-edge-engineer/
